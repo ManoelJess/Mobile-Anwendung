@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAzY9Vd4TlGQHh8K2O4Er8Qk-CynXHx0NQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>444814870060</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bookmytime</string>
+	<key>PROJECT_ID</key>
+	<string>book-my-time-eb5fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>book-my-time-eb5fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:444814870060:ios:9e2b7bfb8fb18043197389</string>
+</dict>
+</plist>

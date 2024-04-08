@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444814870060",
+    "project_id": "book-my-time-eb5fc",
+    "storage_bucket": "book-my-time-eb5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444814870060:android:4e9d232f9c4255c3197389",
+        "android_client_info": {
+          "package_name": "com.example.bookmytime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHqwntwC7Zm_-3t1K5YO5xYi3ty8kf8Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444814870060:android:04d349e16b11b22c197389",
+        "android_client_info": {
+          "package_name": "com.example.firstly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHqwntwC7Zm_-3t1K5YO5xYi3ty8kf8Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

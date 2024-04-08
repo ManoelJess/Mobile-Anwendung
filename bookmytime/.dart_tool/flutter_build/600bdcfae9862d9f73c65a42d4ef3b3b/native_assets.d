@@ -1,0 +1,1 @@
+ C:\\Users\\Manoel\ Jessica\\EmaFinalNew\\bookmytime\\.dart_tool\\flutter_build\\600bdcfae9862d9f73c65a42d4ef3b3b\\native_assets.yaml: 
